@@ -1,0 +1,34 @@
+p{
+    font-family: "Poppins", sans-serif;
+    color: blueviolet;
+    font-size: large;
+    font-weight: 600;
+}
+
+li{
+    list-style-position: inside;
+    font-weight: 900;
+    color: blue;
+    list-style-position: outside;
+    list-style-type: none;
+    
+}
+
+table{
+    background-color: antiquewhite ;
+    font-size: small;
+}
+
+ .fa-brands{
+    color: rgb(0, 0, 13);
+}
+
+.A{
+    background-clip: text;
+    color: transparent;
+}
+.content{
+    background-clip: text;
+    color: transparent;
+}
+
