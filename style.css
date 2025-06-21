@@ -1,0 +1,36 @@
+a{
+    background-color: yellow;
+    display: inline;
+    width: 20px;
+    height: 80px;
+}
+p{
+    display: block;
+    background-color:palegreen;
+    text-align: justify;
+    align-items: stretch;
+    
+}
+div{
+    background-color: wheat;
+    padding: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+}
+.outer{
+    display: flex;
+    background-color: aqua;
+    flex-direction: column-reverse;
+    gap: 40px;
+    flex-flow: row-reverse;
+    flex-wrap:wrap;
+}
+.ishuu{
+    color: blueviolet;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    display: block;
+}
